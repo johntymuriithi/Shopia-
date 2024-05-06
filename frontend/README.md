@@ -1,4 +1,4 @@
-# Green Shopper - eCommerce Project [MERN + TailwindCSS + Firebase File Storage]
+# Green Shopper
 
 ## Developed by Stephen Omoregie
 

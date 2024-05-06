@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::after,
+*::before {
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+#featured-container::-webkit-scrollbar,
+#featured-container-2::-webkit-scrollbar,
+#about-fresh::-webkit-scrollbar,
+*::-webkit-scrollbar {
+  display: none;
+}
+
+#featured-container,
+#featured-container-2 {
+  scroll-behavior: smooth;
+}
