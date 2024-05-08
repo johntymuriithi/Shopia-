@@ -17,12 +17,3 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 
 export default app;
-
-/**
- * APIKEY="AIzaSyAa-UqrOWlxE2ci75c7aVuycLQN35GxCnU"
-AUTH_DOMAIN="greenshopper-38a61.firebaseapp.com"
-PROJECT_ID="greenshopper-38a61"
-STORAGE_BUCKET="greenshopper-38a61.appspot.com"
-MESSAGING_SENDER_ID="445119479057"
-APP_ID="1:445119479057:web:c9cbd480f5db62f4abe0b0"
- */
