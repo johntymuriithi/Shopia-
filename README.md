@@ -1,6 +1,5 @@
 # Green Shopper - eCommerce Project [MERN + TailwindCSS + Firebase File Storage]
 
-## Developed by Stephen Omoregie
 
 ### This project is one of many I've lined up to practice and upskill myself as a job-ready MERN Stack Developer. I've been explosed to many aspects of creating a Full Stack Application, from setting up the servers, planning routes, building models for a data base using mongodb (mongoose).
 
